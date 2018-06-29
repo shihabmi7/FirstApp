@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "1f55fd14e3c36dbeebc414e59352b762"
+build_time: [1530268702, 59254000]
+inputs:
+  "/Users/mahmudriad/Documents/iOS Workspace/FirstApp/FirstApp/ViewController.swift": [1530268502, 0]
+  "/Users/mahmudriad/Documents/iOS Workspace/FirstApp/FirstApp/AppDelegate.swift": [1530265963, 0]
